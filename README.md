@@ -19,3 +19,6 @@ Using SQlite and the `sqlite3` command line utility:
 
 #### Package Diagram
 [Package Diagram](../../wiki/package-diagram)
+
+#### Web Service API
+[Web Service API](../../wiki/web-service-API)
